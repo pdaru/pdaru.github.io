@@ -8,13 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Is that his design in settling here?',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'The last word he pronounced was--your name.',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'You have it, sir, just as it happened.',
-  'example4':
-      'They will be rapid. Fear not!'
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
