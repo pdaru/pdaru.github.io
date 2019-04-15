@@ -8,11 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Peace, break thee off. Look where it comes again.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'A war O soldiers not for itself alone, Far, far more stood silently waiting behind, now to advance in this book.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'There was one thing which Flambeau, with all his dexterity of disguise, could not cover, and that was his singular height.'
+  'example4':
+      'This friend, and Sir Walter, did not marry, whatever might have been anticipated on that head by their acquaintance.'      
 };
 
 function status(statusText) {
