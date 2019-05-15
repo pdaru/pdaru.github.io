@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'A war O soldiers not for itself alone, Far, far more stood silently waiting behind, now to advance in this book.',
   'example3':
-      'There was one thing which Flambeau, with all his dexterity of disguise, could not cover, and that was his singular height.'
+      'There was one thing which Flambeau, with all his dexterity of disguise, could not cover, and that was his singular height.',
   'example4':
       'This friend, and Sir Walter, did not marry, whatever might have been anticipated on that head by their acquaintance.'      
 };
